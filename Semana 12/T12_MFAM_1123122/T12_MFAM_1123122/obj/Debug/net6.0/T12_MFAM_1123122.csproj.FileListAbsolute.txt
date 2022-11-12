@@ -1,0 +1,15 @@
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.csproj.AssemblyReference.cache
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.AssemblyInfoInputs.cache
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.AssemblyInfo.cs
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.csproj.CoreCompileInputs.cache
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\bin\Debug\net6.0\T12_MFAM_1123122.exe
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\bin\Debug\net6.0\T12_MFAM_1123122.deps.json
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\bin\Debug\net6.0\T12_MFAM_1123122.runtimeconfig.json
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\bin\Debug\net6.0\T12_MFAM_1123122.dll
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\bin\Debug\net6.0\T12_MFAM_1123122.pdb
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.dll
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\refint\T12_MFAM_1123122.dll
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.pdb
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\T12_MFAM_1123122.genruntimeconfig.cache
+C:\Users\gerar\source\repos\T12_MFAM_1123122\T12_MFAM_1123122\obj\Debug\net6.0\ref\T12_MFAM_1123122.dll
